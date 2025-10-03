@@ -10,6 +10,13 @@ I'm a passionate **Machine Learning & Data Science** with experience in **Python
 - 📫 How to reach me: **z.avishai@gmail.com**
 - ⚡ Fun fact: **I have a Gandalf tattoo**
 
+## My Hobbies and interests:
+- Traveling
+- Hiking
+- Cooking
+- Baking
+- Running
+- 
 ## My Skills 🧠
 
 
