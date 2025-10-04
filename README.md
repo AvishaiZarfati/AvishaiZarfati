@@ -16,7 +16,7 @@ I'm a passionate **Machine Learning & Data Science** with experience in **Python
 - Cooking
 - Baking
 - Running
-- 
+  
 ## My Skills 🧠
 
 
